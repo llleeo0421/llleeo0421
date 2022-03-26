@@ -1,0 +1,10 @@
+- 👋 Hi, I’m [@llleeo0421](https://github.com/llleeo0421)
+  - I'm a student, Korea high school.
+- 📫 How to reach me
+  - E-mail
+    - First : dev_augustleo@outlook.com
+    - Second : dev_augustleo@kakao.com
+  - Blog : [날 찾아온 낯선 여행자](https://llleeo0421.tistory.com)
+  - Youtube : [llleeo](https://www.youtube.com/channel/UCoHALWM5iYLzsrytWGbNCxg)
+  - Instagram : [@llleeo__](https://instagram.com/llleeo__)
+  - Twitter : [@llleeo0421](https://twitter.com/llleeo0421)

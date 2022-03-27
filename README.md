@@ -2,8 +2,9 @@
   - I'm a student, Korea high school.
 - 📫 How to reach me
   - E-mail
-    - First : dev_augustleo@outlook.com
-    - Second : dev_augustleo@kakao.com
+    - dev_augustleo@outlook.com
+    - dev_augustleo@kakao.com
+  - Asked : [llleeo0421](https://asked.kr/llleeo0421)
   - Blog : [날 찾아온 낯선 여행자](https://llleeo0421.tistory.com)
   - Youtube : [llleeo](https://www.youtube.com/channel/UCoHALWM5iYLzsrytWGbNCxg)
   - Instagram : [@llleeo__](https://instagram.com/llleeo__)

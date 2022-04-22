@@ -2,9 +2,7 @@
   - I'm a student, Korea high school.
 
 - 📫 Contact me
-  - E-mail
-    - dev_augustleo@outlook.com
-    - dev_augustleo@kakao.com
+  - E-mail : dev.augustleo@gmail.com
 
 - 🧑‍💻 Web Site
   - Asked : [llleeo](asked.kr/llleeo)
